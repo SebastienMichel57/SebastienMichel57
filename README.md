@@ -9,7 +9,7 @@
 
 ## 🚀 Mes projets récents
 
-- 🛒 **[Liste de courses mobile](https://github.com/SebastienMichel57/liste-de-courses)** – React Native + TypeScript, UX soignée et gestion de catégories
+- 🛒 **[Liste de courses mobile](https://github.com/SebastienMichel57/App_shopping_react_native/tree/main)** – React Native + TypeScript, UX soignée et gestion de catégories
 - 🖥️ **[Portfolio professionnel](https://sebmichel-dev.fr)** – Site responsive, hébergé avec Vercel, domain custom
 
 
