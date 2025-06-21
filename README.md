@@ -25,7 +25,9 @@ Outils     : Git, GitHub, Vite, Docker
 Méthodologie : Agile, bonnes pratiques RGPD
 
 ```
-### 📫 Me contacter
--Portfolio: sebmichel-dev.fr
+## 📫 Me contacter
+- **[Portfolio](https://sebmichel-dev.fr)**
+- **[Linkedin](https://www.linkedin.com/in/smichel5789)**
+- **[Email](sebastien.michel.dev.pro@gmail.com)**
 
 
