@@ -3,7 +3,7 @@
 🎯 Développeur web et mobile full stack JavaScript, passionné par la création d'applications performantes et accessibles.  
 💻 Stack principale : **React.js | Node.js | Express | Sequelize | PostgreSQL | Tailwind CSS | React Native | TypeScript**  
 📚 Formé chez **O'clock** (798h) – diplômé en janvier 2025  
-🌍 En recherche active d’un poste en télétravail ou hybride basé à Metz (France)
+🌍 En recherche active d’un poste en télétravail 
 
 ---
 
