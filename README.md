@@ -23,3 +23,9 @@ Backend    : Node.js, Express, Sequelize, PostgreSQL
 Mobile     : React Native (Expo)
 Outils     : Git, GitHub, Vite, Docker
 Méthodologie : Agile, bonnes pratiques RGPD
+
+```
+### 📫 Me contacter
+-Portfolio: sebmichel-dev.fr
+
+
