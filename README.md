@@ -23,6 +23,11 @@ Backend    : Node.js, Express, Sequelize, PostgreSQL
 Mobile     : React Native (Expo)
 Outils     : Git, GitHub, Vite, Docker
 Méthodologie : Agile, bonnes pratiques RGPD
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+
 
 ```
 ## 📫 Me contacter
