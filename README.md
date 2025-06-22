@@ -24,13 +24,11 @@ Mobile     : React Native (Expo)
 Outils     : Git, GitHub, Vite, Docker
 Méthodologie : Agile, bonnes pratiques RGPD
 
-
-
 ```
 ## 📫 Me contacter
 - **[Portfolio](https://sebmichel-dev.fr)**
 - **[Linkedin](https://www.linkedin.com/in/smichel5789)**
-- Email : [sebastien.michel.dev.pro@gmail.com](mailto:sebastien.michel.dev.pro@gmail.com?subject=Contact%20depuis%20GitHub&body=Bonjour%20Sébastien%2C%20je%20souhaite%20vous%20contacter%20à%20propos...)
-- **[Voir mon CV](https://www.sebmichel-dev.fr/CV-sebastien-michel.pdf)**
+- **Email : [sebastien.michel.dev.pro@gmail.com](mailto:sebastien.michel.dev.pro@gmail.com?subject=Contact%20depuis%20GitHub&body=Bonjour%20Sébastien%2C%20je%20souhaite%20vous%20contacter%20à%20propos...)**
 
-
+## 📄 Mon CV
+- **👉 [Consulter mon CV](https://www.sebmichel-dev.fr/CV-sebastien-michel.pdf)**
